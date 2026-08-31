@@ -1,0 +1,5 @@
+object_type,distribution,number_of_sizes,empirical_log_log_slope
+disk,clustered,6,1.1120603961904985
+disk,uniform,6,0.9677879987533726
+point,clustered,6,0.8521620737885806
+point,uniform,6,0.8328047325685757

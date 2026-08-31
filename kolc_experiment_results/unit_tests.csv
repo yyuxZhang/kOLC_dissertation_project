@@ -1,0 +1,11 @@
+test,passed,error,runtime_seconds
+point sample validation,True,,0.0006145420484244823
+disk sample validation,True,,0.0004387079970911145
+sparse grid with large coordinate gap,True,,0.00010674993973225355
+repeated coordinates,True,,0.00015362503472715616
+exact point feasible case,True,,6.154202856123447e-05
+exact point infeasible budget,True,,5.091703496873379e-05
+disk reduction with r equals zero,True,,0.00031095894519239664
+malformed text input rejected,True,,8.458970114588737e-06
+invalid parameters rejected,True,,1.3499986380338669e-05
+builtin matching and cover optimality,True,,0.000920834019780159

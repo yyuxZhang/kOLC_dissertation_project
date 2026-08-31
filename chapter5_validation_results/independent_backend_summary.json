@@ -1,0 +1,43 @@
+{
+  "seed": 20260822,
+  "notebook": "/Users/a11/Desktop/kOLC_dissertation_project/orthogonal_line_center_complete_experiments.ipynb",
+  "production_backend": "builtin Hopcroft-Karp plus Konig recovery",
+  "independent_backend": "elementary DFS augmenting paths plus alternating recovery",
+  "total_cases": 1000,
+  "passed": 1000,
+  "failed": 0,
+  "small_graphs_checked_by_bruteforce": 200,
+  "by_source": {
+    "disk_induced_graph": {
+      "cases": 250,
+      "passed": 250,
+      "maximum_vertices": 23,
+      "maximum_edges": 48
+    },
+    "larger_random_graph": {
+      "cases": 300,
+      "passed": 300,
+      "maximum_vertices": 60,
+      "maximum_edges": 339
+    },
+    "point_induced_graph": {
+      "cases": 250,
+      "passed": 250,
+      "maximum_vertices": 52,
+      "maximum_edges": 50
+    },
+    "small_random_graph": {
+      "cases": 200,
+      "passed": 200,
+      "maximum_vertices": 10,
+      "maximum_edges": 19
+    }
+  },
+  "independent_scalar_geometry": {
+    "total_cases": 500,
+    "passed": 500,
+    "failed": 0,
+    "point_cases": 250,
+    "disk_cases": 250
+  }
+}

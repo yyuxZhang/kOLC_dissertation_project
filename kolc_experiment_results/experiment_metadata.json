@@ -1,0 +1,26 @@
+{
+  "created_utc": "2026-08-31T13:52:04Z",
+  "quick_mode": false,
+  "global_seed": 20260822,
+  "python_version": "3.13.15 (v3.13.15:4061bc4c35f, Aug  5 2026, 09:08:51) [Clang 21.0.0 (clang-2100.1.1.101)]",
+  "platform": "macOS-15.6-arm64-arm-64bit-Mach-O",
+  "numpy_version": "2.5.2",
+  "networkx_available": false,
+  "networkx_version": null,
+  "matching_backend": "builtin",
+  "elapsed_seconds": 1.330506916041486,
+  "quality_settings": {
+    "n_values": [
+      6,
+      8,
+      10
+    ],
+    "k_values": [
+      2,
+      3
+    ],
+    "trials_per_setting": 15,
+    "r": 1.5,
+    "rho": 0.8
+  }
+}
